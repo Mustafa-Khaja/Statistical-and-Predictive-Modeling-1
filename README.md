@@ -10,7 +10,7 @@ This project presents a comprehensive analysis of factors influencing **birth we
 
 ## 🧠 Skills Demonstrated
 
-- Data Cleaning and Exploration in R  
+- Data Exploration in R  
 - Linear and Multiple Regression  
 - Hypothesis Testing  
 - Visualization (ggplot2, lattice)  
