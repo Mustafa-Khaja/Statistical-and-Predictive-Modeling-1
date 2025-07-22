@@ -62,7 +62,7 @@ This project presents a comprehensive analysis of factors influencing **birth we
 **H₁**: μ ≠ 3400 grams  
 
 - **z = -0.87**, **p-value = 0.3836**
-- ✅ Failed to reject the null hypothesis — not enough evidence to say the mean birth weight differs from 3400 grams.
+- ✅ Failed to reject the null hypothesis - not enough evidence to say the mean birth weight differs from 3400 grams.
 
 ---
 
