@@ -46,11 +46,11 @@ This project presents a comprehensive analysis of factors influencing **birth we
 
 | Variable     | Range           | Mean     | Std Dev | Key Insight                                |
 |--------------|------------------|----------|---------|---------------------------------------------|
-| Birth Weight | 1559–4990 grams  | 3387.0 g | 519.6   | Normally distributed                        |
-| Gestation    | 148–353 days     | 279.1    | —       | Mostly full-term pregnancies                |
-| Age          | 14–46 years      | 27.3     | —       | Includes both teen and older mothers        |
-| Height       | 135–183 cm       | 162.7    | —       | Moderate variability                        |
-| Weight       | 39.5–113.4 kg    | 58.3     | —       | Significant variability                     |
+| Birth Weight (bwt)| 1559–4990 grams  | 3387.0 g | 519.6   | Normally distributed                        |
+| Gestation    | 148–353 days     | 279.1    | 16.01   | Mostly full-term pregnancies                |
+| Age (Maternal age)         | 14–46 years      | 27.3     | 5.93    | Includes both teen and older mothers        |
+| Height       | 135–183 cm       | 162.7    | 6.51    | Moderate variability                        |
+| Weight       | 39.5–113.4 kg    | 58.3     | 9.40    | Significant variability                     |
 
 - **Visualization**: Histogram of `bwt` suggested a near-normal distribution.
 
